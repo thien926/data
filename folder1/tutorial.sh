@@ -1,2 +1,0 @@
-thien
-hello world

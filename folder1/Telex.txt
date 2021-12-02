@@ -1,0 +1,18 @@
+thien
+hello world
+nguyễn ngọc thiện
+
+dấu sắc : s
+dấu huyền : f
+dấu hỏi : r
+dấu ngã : x
+dấu nặng : j
+
+â : aa
+ă : aw
+ô : oo
+ơ : ow
+ê : ee
+ư : uw
+đ : dd
+
